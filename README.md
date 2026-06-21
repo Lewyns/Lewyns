@@ -84,6 +84,4 @@ current_learning = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&text=Thanks%20for%20visiting!%20💜&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 </div>
