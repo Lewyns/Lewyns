@@ -8,7 +8,7 @@
 
 </div>
 
-## 🎀 About Me
+## About Me
 
 ```python
 class Lewyns:
@@ -35,22 +35,6 @@ me.say_hi()
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-240046?style=for-the-badge&logo=ai&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-5A189A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lewyns&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C77DFF&ring_color=9D4EDD" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lewyns&theme=midnight-purple&hide_border=true&background=0d1117&ring=9D4EDD&fire=E0AAFF&currStreakLabel=C77DFF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lewyns&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=C77DFF" alt="Top Languages" />
-
 </div>
 
 ---
@@ -69,19 +53,8 @@ current_learning = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
-### 💜 Fun Facts
-
-🌙 Night owl who codes under the moonlight  
-🎮 Gaming breaks = best debugging technique  
-☕ Coffee-powered (with a touch of chaos)  
-💀 Kuromi is my spirit animal  
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&text=Thanks%20for%20visiting!%20💜&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
+### Fun Facts
+  
+Coffee-powered (with a touch of chaos)  
 
 </div>
