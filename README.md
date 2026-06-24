@@ -17,7 +17,7 @@ class Lewyns:
         self.role = "Student & Security Enthusiast"
         self.interests = ["Cyber Security 🔐", "Artificial Intelligence 🤖", "IoT 📡"]
         self.language = "Python 🐍"
-        self.motto = "Cute but deadly ~kuromi style~ 💀💜"
+        self.motto = "Consistency Always WIN"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool together ✨")
